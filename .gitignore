@@ -1,0 +1,8 @@
+prometheusCV/
+
+# TeX files
+*.aux
+*.log
+*.out
+*.synctex.gz
+
